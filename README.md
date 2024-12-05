@@ -30,9 +30,9 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 ## Usage
 
 1. Enter your userId, how to get the userid? please refer to this
-   [Get userId Grass Here](https://github.com/federicoalie/getuserid.md)
+   [Get userId Here](https://github.com/federicoalie/getuserid.md)
 
-2. If you want to use proxy, edit the `proxy.txt` with your proxy.
+3. If you want to use proxy, edit the `proxy.txt` with your proxy.
 	```
  	ip:port
 	username:password@ip:port
@@ -41,7 +41,7 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 	socks5://ip:port
 	socks5://username:password@ip:port
  	```
-3. Run the script:
+4. Run the script:
 	```bash
 	python grass.py
 	```
