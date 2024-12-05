@@ -6,7 +6,7 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 ## Prerequisites
 - [Python](https://www.python.org/) (version 3.7 or higher)
 
-## Consider using my Refferals
+## Register your Grass account using this link below
 - https://app.getgrass.io/register/?referralCode=XRjg68HsPJKNEYL
 
 ## Installation
