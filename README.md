@@ -24,14 +24,15 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
  	or
  
  	```bash
- 	pip3 install -r requirements.txt\
+ 	pip3 install -r requirements.txt
 	```
 
 ## Usage
 
-1. Enter your userId
+1. Enter your userId, how to get the userid? please refer to this
+   [Get userId Grass Here](https://github.com/federicoalie/getuserid.md)
 
-1. If you want to use proxy, edit the `proxy.txt` with your proxy.
+2. If you want to use proxy, edit the `proxy.txt` with your proxy.
 	```
  	ip:port
 	username:password@ip:port
@@ -40,7 +41,7 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 	socks5://ip:port
 	socks5://username:password@ip:port
  	```
-2. Run the script:
+3. Run the script:
 	```bash
 	python grass.py
 	```
