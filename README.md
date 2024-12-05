@@ -21,11 +21,11 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 	pip install -r requirements.txt
 	```
  
- or
+ 	or
  
- ```bash
-  pip3 install -r requirements.txt\
- ```
+ 	```bash
+ 	pip3 install -r requirements.txt\
+	```
 
 ## Usage
 
@@ -45,11 +45,11 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 	python grass.py
 	```
  
-  or
+  	or
   
-  ```bash
-  python3 grass.py
-  ```
+  	```bash
+ 	python3 grass.py
+ 	```
 
 ## Credit
 https://github.com/ylasgamers/getgrass/tree/main
