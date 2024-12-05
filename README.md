@@ -32,14 +32,14 @@ Python Grass Bot with Bandwidth monitoring and Logging Time
 1. Enter your userId, how to get the userid? please refer to this
    [Get userId Here](https://github.com/federicoalie/grass/blob/main/getuserid.md)
 
-3. If you want to use proxy, edit the `proxy.txt` with your proxy.
+3. If you want to use proxy, edit the `local_proxies.txt` with your proxy.
 	```
- 	ip:port
-	username:password@ip:port
-	http://ip:port
-	http://username:password@ip:port
+ 	http://ip:port
+	socks4://ip:port
 	socks5://ip:port
-	socks5://username:password@ip:port
+	http://user:pass@ip:port
+	socks4://user:pass@ip:port
+	socks5://user:pass@ip:port
  	```
 4. Run the script:
 	```bash
