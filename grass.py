@@ -75,7 +75,7 @@ async def connect_to_wss(socks5_proxy, user_id):
                     while True:
                         send_message = json.dumps(
                             {"id": str(uuid.uuid4()), "version": "1.0.0", "action": "PING", "data": {}})
-                        logger.debug(f"{Fore.LIGHTBLUE_EX}{send_message}{Style.RESET_ALL}")
+                        logger.debug(f"{Fore.LIGHTBLUE_EX}Mengirim PING!{Style.RESET_ALL}")
                         await websocket.send(send_message)
                         await asyncio.sleep(5)
 
